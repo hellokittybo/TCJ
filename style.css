@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    background-color:rgb(83, 75, 75); 
+}#intros{
+    font-size: medium; 
+}
+#navbar{
+    color:white;
+    background-color:rgb(57,57,57);
+    font-size: smaller;
+}
+html{
+    scroll-behavior: smooth;
+}
+article{
+    font-size: medium ;
+    color: rgb(250, 3, 3);
+}
+#date{
+    text-align: right;
+    color: white;
+}
+#titledivone{
+    color: firebrick;
+    font-size: 60px;    
+}
+p{
+    font-size: small;
+    color: rgb(250, 3, 3);
+}
+a{
+    font-size: medium;
+    color: rgb(250, 3, 3);
+}
+h1{
+    color: rgb(250, 3, 3);
+}
+h2{
+    color: rgb(250, 3, 3);
+}
+h3{
+    color: rgb(250, 3, 3);
+}
+h4{
+    color: rgb(250, 3, 3);
+}
+h5{
+    color: rgb(250, 3, 3);
+}
+h6{
+    color: rgb(250, 3, 3);
+}
